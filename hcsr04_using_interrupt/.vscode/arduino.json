@@ -1,0 +1,5 @@
+{
+    "board": "arduino:sam:arduino_due_x_dbg",
+    "sketch": "hcsr04_using_interrupt.ino",
+    "port": "COM3"
+}
