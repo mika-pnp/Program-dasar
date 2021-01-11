@@ -1,2 +1,2 @@
 # Program-per-module
- Program dasar untuk masing-masing bagian module/sensor/komponen robot KRPAI
+ Program dasar untuk masing-masing bagian module/sensor/komponen berdasarkan kontes sebelumnya
